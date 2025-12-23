@@ -44,7 +44,7 @@ A Streamlit-based web application that utilizes machine learning models to predi
 
 ### Setup
 ```bash
-git clone https://github.com/yourusername/medical-ai-diagnosis.git
+git clone https://github.com/CIPHERRAJ/medical-ai-diagnosis.git
 cd medical-ai-diagnosis
 pip install -r requirements.txt
 ```
